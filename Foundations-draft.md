@@ -37,9 +37,9 @@ If you never took those courses or it's been a long time, we suggest diving stra
 ### Resources
 | Format             | Resource                                                                                                                       | Use cases           | Effort    |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
-| `course`           | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)                                         | `learn`             | 130 hours |
-| `course`           | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)                                                 | `learn`             | 130 hours |
-| `course`           | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | `learn`             | 130 hours |
+| `course`           | [MIT Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)                                         | `learn`             | 130 hours |
+| `course`           | [MIT Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)                                                 | `learn`             | 130 hours |
+| `course`           | [MIT Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | `learn`             | 130 hours |
 | `interactive text` | [Expii Calculus 1](https://www.expii.com/t/calculus-1)                                                                         | `practice` `review` |           |
 | `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                            | `help`              |           |
 ### Needed by
@@ -73,7 +73,7 @@ If you have already taken any programming courses, consider the programming assi
 | Format   | Resource                                                                                                       | Use cases          | Effort    |
 |----------|----------------------------------------------------------------------------------------------------------------|--------------------|-----------|
 | `video`  | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          | `review` `prepare` |           |
-| `course` | [Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | `learn`            | 120 hours |
+| `course` | [UT Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | `learn`            | 120 hours |
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                            | `help`             |           |
 ### Alternative track
 #### Prerequisites
@@ -83,7 +83,7 @@ If you have already taken any programming courses, consider the programming assi
 | Format   | Resource                                                                                                             | Use cases | Effort    |
 |----------|----------------------------------------------------------------------------------------------------------------------|-----------|-----------|
 | `course` | [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)                      | `learn`   | 130 hours |
-| `book`   | [*Introduction to Linear Algebra*](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | `learn`   |           |
+| `book`   | [*Introduction to Linear Algebra* (Gilbert Strang)](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | `learn`   |           |
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                  | `help`    |           |
 ### Needed by
 - Machine Learning
@@ -97,7 +97,7 @@ If you have already taken any programming courses, consider the programming assi
 ### Resources
 | Format   | Resource                                                                                                                             | Use cases | Effort    |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
-| `course` | [Introduction to Probability: The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | `learn`   | 216 hours |
+| `course` | [MIT Introduction to Probability: The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | `learn`   | 216 hours |
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                  | `help`    |           |
 ### Needed by
 - Networking (TODO)
@@ -109,7 +109,7 @@ The first course is a very popular introduction to physics that you can take to 
 ### Resources
 | Format             | Resource                                                                                                        | Use cases               | Effort   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------|----------|
-| `course`           | [How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)                   | `prepare` `inspiration` | 17 hours |
+| `course`           | [UV How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)                   | `prepare` `inspiration` | 17 hours |
 | `course`           | [Rice Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) | `learn`                 | 36 hours |
 | `interactive text` | [Expii Mechanics](https://www.expii.com/t/mechanics-486)                                                        | `practice` `review`     |          |
 | `course`           | [Rice Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) | `learn`                 | 70 hours |
