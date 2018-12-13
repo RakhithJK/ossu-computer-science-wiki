@@ -5,9 +5,8 @@
 
 ## Resources
 - Some history: Lisp and Fortran, C, Unix, etc. Set expectations.
-- Helsinki C or CS50
-- Java?
 - Systematic Program Design
+- Software Construction in Java
 - Programming Languages, Part A
 - Programming Languages, Part B
 - Programming Languages, Part C
