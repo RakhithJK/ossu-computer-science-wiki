@@ -28,6 +28,10 @@ The material does not directly fall into the computer science field, and you sho
 - Linear Algebra (Recommended track)
 
 ## Single-variable Calculus
+AP Calculus AB should correspond to Calculus 1A and 1B.
+AP Calculus BC should correspond to Calculus 1C.
+If you took these courses recently in high school, we recommend using Expii Calculus 1 to test yourself and see if you need more review.
+If you never took those courses or it's been a long time, we suggest diving straight into MIT Calculus 1A through 1C.
 ### Prerequisites
 - High School Math
 ### Resources
@@ -51,9 +55,17 @@ The material does not directly fall into the computer science field, and you sho
 | `course` | [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)                           | `practice` `review` |           |
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                      | `help`              |           |
 ### Needed by
+- Probability
 - Linear Algebra (Alternative track)
 
 ## Linear Algebra
+Gilbert Strang's material on linear algebra is perhaps the most widely praised on this topic, but his course MIT Linear Algebra assumes not only that you have access to MATLAB but also that you already have an advanced background in math.
+You should take Strang's course if you meet these requirements; you will find LAFF too slow and boring otherwise.
+For everyone else, we recommend taking LAFF (which is also widely praised), which only assumes high school math and provides you with MATLAB Online through the use of the course.
+
+LAFF includes optional programming assignments, although the instructors don't assume a background in programming.
+If you are taking linear algebra *before* moving onto the computer science curriculum, and you don't have any background in programming, feel free to skip these assignments if you wish.
+If you have already taken any programming courses, consider the programming assignments to be required.
 ### Recommended track
 #### Prerequisites
 - High School Math
@@ -91,26 +103,30 @@ The material does not directly fall into the computer science field, and you sho
 - Networking (TODO)
 
 ## Physics
+The first course is a very popular introduction to physics that you can take to get you interested in the topic, but it is optional.
 ### Prerequisites
 - Single-variable calculus
 ### Resources
 | Format             | Resource                                                                                                        | Use cases               | Effort   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------|----------|
 | `course`           | [How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)                   | `prepare` `inspiration` | 17 hours |
-| `course`           | [Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) | `learn`                 | 36 hours |
+| `course`           | [Rice Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) | `learn`                 | 36 hours |
 | `interactive text` | [Expii Mechanics](https://www.expii.com/t/mechanics-486)                                                        | `practice` `review`     |          |
-| `course`           | [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) | `learn`                 | 70 hours |
-| `course`           | [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | `learn`                 | 70 hours |
+| `course`           | [Rice Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) | `learn`                 | 70 hours |
+| `course`           | [Rice Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | `learn`                 | 70 hours |
 | `interactive text` | [Expii Electricity, Magnetism, Optics](https://www.expii.com/t/electricity-magnetism-and-optics-1620)           | `practice` `review`     |          |
 ### Needed by
 - Machine Architecture (TODO)
 
 ## Modern Technology
+Although "computer science" is mostly a branch of mathematics, most computer science courses just assume that you are going to use a computer for doing computations, and that you are quite familiar with computers.
+So you should take this if you are completely new to how computers work.
+However, the full Harvard CS50 course includes all this material, so there is no need to take it if you plan to use CS50 as your introductory course.
 ### Prerequisites
 - None
 ### Resources
 | Format   | Resources                                                                                                   | Use cases | Effort   |
 |----------|-------------------------------------------------------------------------------------------------------------|-----------|----------|
-| `course` | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | `learn`   | 12 hours |
+| `course` | [Harvard CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | `learn`   | 12 hours |
 ### Needed by
 - Intro CS
