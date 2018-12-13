@@ -5,7 +5,6 @@
 
 ## Resources
 - Some history: Lisp and Fortran, C, Unix, etc. Set expectations.
-- GT Computing in Python
 - Helsinki C or CS50
 - Java?
 - Systematic Program Design
