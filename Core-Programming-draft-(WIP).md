@@ -4,13 +4,11 @@
 - No specific topic, but it is recommended first to complete a course in Intro CS
 
 ## Resources
+- Some history: Lisp and Fortran, C, Unix, etc. Set expectations.
 - GT Computing in Python
-- Some history: McCarthy's Lisp
-
-
-- Some history: Fortran, C, Unix, etc.
-- C
-- Java or C++
+- Helsinki C or CS50
+- Java?
+- Systematic Program Design
 - Programming Languages, Part A
 - Programming Languages, Part B
 - Programming Languages, Part C
