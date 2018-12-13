@@ -1,17 +1,25 @@
 # Core Programming
 
-## Functional Computation
-- Some history: Church's Lambda calculus, McCarthy's Lisp
-- How to Code / Systematic Program Design
-- Programming Languages, Part A (skip optionals? need check)
-- Programming Languages, Part B (all optionals required)
+## Prerequisites
+- No specific topic, but it is recommended first to complete a course in Intro CS
 
-## Imperative Computation
-- Some history: Turing's automatic machine
+## Resources
 - GT Computing in Python
-- Programming Languages, Part C
+- Some history: McCarthy's Lisp
+
+
+- Some history: Fortran, C, Unix, etc.
 - C
 - Java or C++
+- Programming Languages, Part A
+- Programming Languages, Part B
+- Programming Languages, Part C
 
-## Project 1
+## Needed by
+- Core Theory
+- Core Machine Systems
+- Core Software Engineering
+- Advanced CS
+
+## Projects
 - Make a Lisp in a statically-typed language
