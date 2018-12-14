@@ -53,14 +53,19 @@ If you never took those courses or it's been a long time, we suggest diving stra
 - Discrete Mathematics (TODO)
 
 ## Multivariable Calculus
+The recommended resource here is MIT Multivariable Calculus along with the Strang textbook *Calculus*.
+
+An alternative for those seeking a purely text-based approach is to follow the Ximera Calculus 3 interactive textbook.
 ### Prerequisites
 - Single-variable Calculus
 ### Resources
-| Format   | Resource                                                                                                                 | Use cases           | Effort    |
-|----------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
-| `course` | [MIT Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | `learn`             | 156 hours |
-| `course` | [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)                           | `practice` `review` |           |
-| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                      | `help`              |           |
+| Format             | Resource                                                                                                                 | Use cases           | Effort    |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
+| `interactive text` | [Ximera Mooculus Calculus 3](https://ximera.osu.edu/mooculus/calculus3)                                                  | `learn`             |           |
+| `text`             | [*Calculus*](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/index.htm) (Gilbert Strang)   | `learn`             |           |
+| `course`           | [MIT Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | `learn`             | 156 hours |
+| `course`           | [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)                           | `practice` `review` |           |
+| `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                      | `help`              |           |
 ### Needed by
 - Probability
 - Linear Algebra (Advanced track)
