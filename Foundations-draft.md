@@ -117,15 +117,22 @@ We suggest bookmarking it for future reference.
 - Robotics
 
 ## Probability
+The MIT Probability course is much more in-depth than one would need for much of computer science, but it would be critical for those who are going into data science.
+
+Our discrete mathematics materials will also teach some probability, which may be sufficient for some computer science students;
+however, it might be necessary to supplement knowledge of discrete probability using some of the other resources here.
 ### Prerequisites
 - Multivariable Calculus
 ### Resources
-| Format   | Resource                                                                                                                             | Use cases | Effort    |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
-| `course` | [MIT Introduction to Probability: The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | `learn`   | 216 hours |
-| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                  | `help`    |           |
+| Format   | Resource                                                                                                                                 | Use cases           | Length    |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
+| `text`   | [*Grinstead and Snell’s Introduction to Probability*](https://math.dartmouth.edu/~prob/prob/prob.pdf)                                    | `learn`             | 518 pages |
+| `course` | [MIT Introduction to Probability: The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | `learn`             | 216 hours |
+| `course` | [Khan Academy Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)                                         | `practice` `review` |           |
+| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                      | `help`              |           |
 ### Needed by
 - Networking (TODO)
+- Machine Learning (TODO)
 
 ## Physics
 The first course is a very popular introduction to physics that you can take to get you interested in the topic, but it is optional.
