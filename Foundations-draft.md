@@ -25,7 +25,7 @@ The material does not directly fall into the computer science field, and you sho
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                | `help`              |
 ### Needed by
 - Single-variable Calculus
-- Linear Algebra (Recommended track)
+- Linear Algebra (Beginner track)
 
 ## Single-variable Calculus
 AP Calculus AB should correspond to Calculus 1A and 1B.
@@ -56,35 +56,47 @@ If you never took those courses or it's been a long time, we suggest diving stra
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                      | `help`              |           |
 ### Needed by
 - Probability
-- Linear Algebra (Alternative track)
+- Linear Algebra (Advanced track)
 
 ## Linear Algebra
-Gilbert Strang's material on linear algebra is perhaps the most widely praised on this topic, but his course MIT Linear Algebra assumes not only that you have access to MATLAB but also that you already have an advanced background in math.
-You should take Strang's course if you meet these requirements; you will find LAFF too slow and boring otherwise.
-For everyone else, we recommend taking LAFF (which is also widely praised), which only assumes high school math and provides you with MATLAB Online through the use of the course.
+Those who are brand new to linear algebra and who only have a background in high school math or single-variable calculus should take the Beginner track.
 
-LAFF includes optional programming assignments, although the instructors don't assume a background in programming.
-If you are taking linear algebra *before* moving onto the computer science curriculum, and you don't have any background in programming, feel free to skip these assignments if you wish.
-If you have already taken any programming courses, consider the programming assignments to be required.
-### Recommended track
+If your math background is already very strong (i.e. through multivariable calculus), or you have some experience in linear algebra, you may find the Beginner track too slow or easy.
+In this case you could consider the Advanced track, which consists of Gilbert Strang's materials (e.g., MIT Linear Algebra).
+However, Strang's textbook is not available for free and his course requires you have access to MATLAB.
+If you do not wish to buy Strang's textbook, you could try using Hefferson's free textbook.
+And it may be possible to use [GNU Octave](http://www.gnu.org/software/octave/) instead of MATLAB, but we have not tested this option.
+
+Gilbert Strang's material on linear algebra is perhaps the very best on this topic, so if you are planning to study advanced topics in linear algebra, you may want to look at Advanced after Beginner.
+
+If you have already studied linear algebra but it's been a long time, the Advanced track contains a review/reference text.
+Go through the text and confirm that you are familiar with everything on there.
+Whenever you find you have forgotten something, go through Strang's online course to find that material and review it.
+
+[*immersive linear algebra*](http://immersivemath.com/ila/) (J. Ström, K. Åström and T. Akenine-Möller) is an interesting, but incomplete interactive textbook.
+We suggest bookmarking it for future reference.
+### Beginner track
 #### Prerequisites
 - High School Math
 #### Resources
-| Format   | Resource                                                                                                       | Use cases          | Effort    |
-|----------|----------------------------------------------------------------------------------------------------------------|--------------------|-----------|
-| `video`  | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)          | `review` `prepare` |           |
-| `course` | [UT Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | `learn`            | 120 hours |
-| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                            | `help`             |           |
-### Alternative track
+| Format             | Resource                                                                                                          | Use cases | Length    |
+|--------------------|-------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+| `video`            | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)             | `prepare` |           |
+| `course`           | [UT Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | `learn`   | 120 hours |
+| `text`             | [*Applied Linear Algebra*](http://vmls-book.stanford.edu/) (Stephen Boyd and Lieven Vandenberghe)                 | `learn`   | 473 pages |
+| `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                               | `help`    |           |
+### Advanced track
 #### Prerequisites
 - Multivariable Calculus
 - MATLAB license
 #### Resources
-| Format   | Resource                                                                                                             | Use cases | Effort    |
-|----------|----------------------------------------------------------------------------------------------------------------------|-----------|-----------|
-| `course` | [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)                      | `learn`   | 130 hours |
-| `book`   | [*Introduction to Linear Algebra* (Gilbert Strang)](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | `learn`   |           |
-| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                  | `help`    |           |
+| Format   | Resource                                                                                                                              | Use cases | Length    |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+| `course` | [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)                                       | `learn`   | 130 hours |
+| `book`   | [*Introduction to Linear Algebra*](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) (Gilbert Strang) | `learn`   | 584 pages |
+| `book`   | [*Linear Algebra*](http://joshua.smcvt.edu/linearalgebra/book.pdf) (Jim Hefferson)                                                    | `learn`   | 507 pages |
+| `text`   | ["Linear Algebra Review and Reference"](http://cs229.stanford.edu/section/cs229-linalg.pdf)                                           | `review`  | 26 pages  |
+| `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                   | `help`    |           |
 ### Needed by
 - Machine Learning
 - Cryptography
