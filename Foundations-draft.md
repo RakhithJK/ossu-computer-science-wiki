@@ -29,7 +29,7 @@ The material does not directly fall into the computer science field, and you sho
 
 ## Single-variable Calculus
 The best online courses for this subject are MIT Calculus 1A through 1C.
-If you prefer an interactive textbook format, Ximera is the most comprehensive.
+If you prefer an interactive textbook format, Ximera Calculus 1-2 is the most comprehensive.
 
 *Calculus Made Easy* is strongly recommended as the first resource for those who find the subject intimidating, but it is neither interactive nor comprehensive.
 
@@ -44,6 +44,7 @@ If you never took those courses or it's been a long time, we suggest diving stra
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
 | `text`             | [*Calculus Made Easy*](http://www.gutenberg.org/ebooks/33283) (Silvanus P. Thompson)                                               | `learn`             | 292 pages |
 | `interactive text` | [Ximera Mooculus Calculus 1](https://ximera.osu.edu/mooculus/calculus1)                                                            | `learn`             |           |
+| `interactive text` | [Ximera Mooculus Calculus 2](https://ximera.osu.edu/mooculus/calculus2)                                                            | `learn`             |           |
 | `course`           | [MIT Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)                                         | `learn`             | 130 hours |
 | `course`           | [MIT Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)                                                 | `learn`             | 130 hours |
 | `course`           | [MIT Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | `learn`             | 130 hours |
