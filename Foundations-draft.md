@@ -28,6 +28,11 @@ The material does not directly fall into the computer science field, and you sho
 - Linear Algebra (Beginner track)
 
 ## Single-variable Calculus
+The best online courses for this subject are MIT Calculus 1A through 1C.
+If you prefer an interactive textbook format, Ximera is the most comprehensive.
+
+*Calculus Made Easy* is strongly recommended as the first resource for those who find the subject intimidating, but it is neither interactive nor comprehensive.
+
 AP Calculus AB should correspond to Calculus 1A and 1B.
 AP Calculus BC should correspond to Calculus 1C.
 If you took these courses recently in high school, we recommend using Expii Calculus 1 to test yourself and see if you need more review.
@@ -35,13 +40,15 @@ If you never took those courses or it's been a long time, we suggest diving stra
 ### Prerequisites
 - High School Math
 ### Resources
-| Format             | Resource                                                                                                                       | Use cases           | Effort    |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
+| Format             | Resource                                                                                                                           | Use cases           | Length    |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
+| `text`             | [*Calculus Made Easy*](http://www.gutenberg.org/ebooks/33283) (Silvanus P. Thompson)                                               | `learn`             | 292 pages |
+| `interactive text` | [Ximera Mooculus Calculus 1](https://ximera.osu.edu/mooculus/calculus1)                                                            | `learn`             |           |
 | `course`           | [MIT Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)                                         | `learn`             | 130 hours |
 | `course`           | [MIT Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)                                                 | `learn`             | 130 hours |
 | `course`           | [MIT Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | `learn`             | 130 hours |
-| `interactive text` | [Expii Calculus 1](https://www.expii.com/t/calculus-1)                                                                         | `practice` `review` |           |
-| `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                            | `help`              |           |
+| `interactive text` | [Expii Calculus 1](https://www.expii.com/t/calculus-1)                                                                             | `practice` `review` |           |
+| `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                | `help`              |           |
 ### Needed by
 - Discrete Mathematics (TODO)
 
