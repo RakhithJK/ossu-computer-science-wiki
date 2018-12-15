@@ -73,6 +73,8 @@ An alternative for those seeking a purely text-based approach is to follow the X
 
 ## Linear Algebra
 Those who are brand new to linear algebra and who only have a background in high school math or single-variable calculus should take the Beginner track.
+Note that the textbook by Boyd and Vandenberghe does not contain all the topics of a full course on linear algebra, so if you choose to learn linear algebra exclusively by textbook you may need to transition to another resource later, such as Jim Hefferson's textbook from the Advanced track.
+However, as not all of linear algebra is necessarily used in every course, a more pragmatic approach to this problem might be to attempt taking the course that requires linear algebra and seeing what topics you are actually missing for understanding the course content, and then selectively learning those topics as needed.
 
 If your math background is already very strong (i.e. through multivariable calculus), or you have some experience in linear algebra, you may find the Beginner track too slow or easy.
 In this case you could consider the Advanced track, which consists of Gilbert Strang's materials (e.g., MIT Linear Algebra).
