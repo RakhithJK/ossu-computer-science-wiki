@@ -2,3 +2,7 @@
 - [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) 48 hours
 - [Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java) 48 hours
 - [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) 48 hours
+- Compilers
+- Logic programming (Prolog?)
+- Monadic computation (OCaml? Haskell)
+- TODO: move Java courses to Core
