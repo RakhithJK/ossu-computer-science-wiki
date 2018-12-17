@@ -1,0 +1,3 @@
+- algorithms: parallel and sequential
+- functional data structures
+- advanced databases like Irmin
