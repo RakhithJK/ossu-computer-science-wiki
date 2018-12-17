@@ -1,4 +1,5 @@
 # Core Theory
 
 - Church's Lambda calculus and Turing's automatic machines
-- Automata theory
+- Basic Theories of computation
+- Automata theory (TODO: move to Advanced?)
