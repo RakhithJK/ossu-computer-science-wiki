@@ -1,0 +1,2 @@
+- [Formal Software Verification](https://www.edx.org/course/formal-software-verification-2)
+- [TLA+ Video Course](https://lamport.azurewebsites.net/video/videos.html)
