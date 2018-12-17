@@ -1,5 +1,6 @@
+Processes
+- [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes)
+
+Practices
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [UMUC Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals)
-- [UMUC Software Testing Management](https://www.edx.org/course/software-testing-management)
-- [Formal Software Verification](https://www.edx.org/course/formal-software-verification-2)
