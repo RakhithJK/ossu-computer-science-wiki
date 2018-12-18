@@ -5,6 +5,7 @@ The dividing layer between these two is usually a [kernel](https://en.wikipedia.
 We combine these two together because coursework tends to combine them together (e.g., both Nand2Tetris and Computation Structures mix the teaching of a simple operating simple with hardware-focused material).
 
 ## Prerequisites
+- Foundations Physics
 - Core Programming
 
 ## Resources
