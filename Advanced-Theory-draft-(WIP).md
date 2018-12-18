@@ -7,6 +7,7 @@
 ### Resources
 - Videos: [Undergraduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - [Syllabus](http://www.cs.cmu.edu/~odonnell/15455-s17/) for Undergraduate Complexity Theory
+- *[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)* (Michael Sipser)
 - *[Computational Complexity: A Modern Approach](http://theory.cs.princeton.edu/complexity/)* (Sanjeev Arora and Boaz Barak)
 
 ### Needed by
