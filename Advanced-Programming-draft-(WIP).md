@@ -1,8 +1,21 @@
-- [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) 180 hours
-- [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) 48 hours
-- [Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java) 48 hours
-- [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) 48 hours
+# Advanced Programming
+
+## Prerequisites
+- Core Programming
+
+## Resources
+
+### Language Implementation
 - Compilers
+
+### Type Systems
+- Programming Languages, Part A
+- Programming Languages, Part B
+- Programming Languages, Part C
 - Logic programming (Prolog?)
-- Monadic computation (OCaml? Haskell)
-- TODO: move Java courses to Core
+
+### Monadic Computation
+- Monadic computation
+
+## Needed by
+- rest of Advanced CS
