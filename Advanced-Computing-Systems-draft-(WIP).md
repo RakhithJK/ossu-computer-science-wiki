@@ -14,12 +14,10 @@ We have listed some operating systems that are known to us, but if you are study
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux)
 - *[How Linux Works](https://www.amazon.com/dp/1593275676/)* (Brian Ward)
 - *[The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)* (Michael Kerrisk)
+- TODO include GNU and Android resources, or split into separate tracks?
 
-### Darwin (macOS) track
-- TODO
-
-### FreeBSD track
-- TODO
+### BSD track
+- TODO: separate tracks for Darwin/macOS, FreeBSD, et al.?
 
 ### Redox track
 - [The Rust Book](https://doc.rust-lang.org/book/)
@@ -28,8 +26,9 @@ We have listed some operating systems that are known to us, but if you are study
 - Primer (not Redox related): [Writing an OS in Rust](https://os.phil-opp.com/)
 - [The Redox Operating System](https://doc.redox-os.org/book/)
 
-### Haiku track
-- TODO
+### Other possible tracks?
+- Haiku
+- illumos / OpenIndiana
 
 ## Needed by
 - TODO: Unikernels ([Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/index.html), [Unikernel papers](http://unikernel.org/resources/), MirageOS)
