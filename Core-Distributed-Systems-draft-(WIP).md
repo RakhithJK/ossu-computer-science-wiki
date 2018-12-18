@@ -1,2 +1,3 @@
 - Information Theory
 - Computer Networking
+- [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) 48 hours
