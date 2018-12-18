@@ -7,7 +7,6 @@ So [Haiku](https://www.haiku-os.org/) or [Redox](https://www.redox-os.org/) woul
 We have listed some operating systems that are known to us, but if you are studying a different one and found a wealth of resources on it, we encourage you to submit a pull request.
 
 ## Prerequisites
-- Foundations Physics
 - Advanced Programming
 
 ## Resources
