@@ -51,7 +51,7 @@ If you never took those courses or it's been a long time, we suggest diving stra
 | `interactive text` | [Expii Calculus 1](https://www.expii.com/t/calculus-1)                                                                             | `practice` `review` |           |
 | `forum`            | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                | `help`              |           |
 ### Needed by
-- Discrete Mathematics (TODO)
+- Core Math
 
 ## Multivariable Calculus
 The recommended resource here is MIT Multivariable Calculus along with the Strang textbook *Calculus*.
@@ -60,7 +60,7 @@ An alternative for those seeking a purely text-based approach is to follow the X
 ### Prerequisites
 - Single-variable Calculus
 ### Resources
-| Format             | Resource                                                                                                                 | Use cases           | Effort    |
+| Format             | Resource                                                                                                                 | Use cases           | Length    |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|-----------|
 | `interactive text` | [Ximera Mooculus Calculus 3](https://ximera.osu.edu/mooculus/calculus3)                                                  | `learn`             |           |
 | `text`             | [*Calculus*](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/index.htm) (Gilbert Strang)   | `learn`             |           |
@@ -87,9 +87,6 @@ Gilbert Strang's material on linear algebra is perhaps the very best on this top
 If you have already studied linear algebra but it's been a long time, the Advanced track contains a review/reference text.
 Go through the text and confirm that you are familiar with everything on there.
 Whenever you find you have forgotten something, go through Strang's online course to find that material and review it.
-
-[*immersive linear algebra*](http://immersivemath.com/ila/) (J. Ström, K. Åström and T. Akenine-Möller) is an interesting, but incomplete interactive textbook.
-We suggest bookmarking it for future reference.
 ### Beginner track
 #### Prerequisites
 - High School Math
@@ -133,7 +130,7 @@ however, it might be necessary to supplement knowledge of discrete probability u
 | `course` | [Khan Academy Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)                                         | `practice` `review` |           |
 | `forum`  | [/r/learnmath](https://www.reddit.com/r/learnmath/)                                                                                      | `help`              |           |
 ### Needed by
-- Networking (TODO)
+- Core Distributed Systems
 - Machine Learning (TODO)
 
 ## Physics
@@ -141,7 +138,7 @@ The first course is a very popular introduction to physics that you can take to 
 ### Prerequisites
 - Single-variable calculus
 ### Resources
-| Format             | Resource                                                                                                        | Use cases               | Effort   |
+| Format             | Resource                                                                                                        | Use cases               | Length   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------|----------|
 | `course`           | [UV How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)                   | `prepare` `inspiration` | 17 hours |
 | `course`           | [Rice Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) | `learn`                 | 36 hours |
@@ -150,7 +147,7 @@ The first course is a very popular introduction to physics that you can take to 
 | `course`           | [Rice Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | `learn`                 | 70 hours |
 | `interactive text` | [Expii Electricity, Magnetism, Optics](https://www.expii.com/t/electricity-magnetism-and-optics-1620)           | `practice` `review`     |          |
 ### Needed by
-- Machine Architecture (TODO)
+- Advanced Computing Systems
 
 ## Modern Technology
 Although "computer science" is mostly a branch of mathematics, most computer science courses just assume that you are going to use a computer for doing computations, and that you are quite familiar with computers.
@@ -159,7 +156,7 @@ However, the full Harvard CS50 course includes all this material, so there is no
 ### Prerequisites
 - None
 ### Resources
-| Format   | Resources                                                                                                   | Use cases | Effort   |
+| Format   | Resources                                                                                                   | Use cases | Length   |
 |----------|-------------------------------------------------------------------------------------------------------------|-----------|----------|
 | `course` | [Harvard CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | `learn`   | 12 hours |
 ### Needed by
