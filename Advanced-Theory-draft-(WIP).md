@@ -14,7 +14,10 @@
 
 ## Type Theory track
 ### Resources
-- "[A Formulation of the Simple Theory of Types](https://pdfs.semanticscholar.org/28bf/123690205ae5bbd9f8c84b1330025e8476e4.pdf)" (Alonzo Church)
+- *[Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl.html)* (Robert Harper)
+- Videos: "[Programming Languages Background](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)"
+- *[Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)* (Bengt Nordström, Kent Petersson, and Jan M. Smith)
+- Videos: "[Type theory foundations](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)"
 
 ### Needed by
-- Type Theory Domain
+- Type Theory Domain (TODO: start with [this video](https://youtu.be/caSOTjr1z18), then [Homotypy Type Theory](http://www.cs.cmu.edu/~rwh/courses/hott/) [book](https://homotopytypetheory.org/book/))
