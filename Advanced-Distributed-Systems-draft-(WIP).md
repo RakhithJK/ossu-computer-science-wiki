@@ -1,2 +1,3 @@
 - [Distributed Systems, 3rd ed.](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/) (Maarten van Steen and Andrew Tanenbaum)
 - [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
+- [TLA+ Video Course](https://lamport.azurewebsites.net/video/videos.html)
