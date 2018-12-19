@@ -1,4 +1,4 @@
 - Information Theory
 - Computer Networking
+- *[Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)* (Mikito Takada)
 - [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) 48 hours
-- [TLA+ Video Course](https://lamport.azurewebsites.net/video/videos.html)
