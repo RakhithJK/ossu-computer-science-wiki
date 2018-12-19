@@ -1,7 +1,10 @@
 # Core Computing Systems
 
-In this curriculum, we use "Computing Systems" to encompass both machine-level systems and operating systems.
+In this curriculum, we use "Computing Systems" to encompass both machine systems (also called computer architecture) and operating systems.
 We combine these two together because coursework tends to combine them together (e.g., both Nand2Tetris and Computation Structures mix the teaching of a simple operating system with hardware-focused material).
+
+Unfortunately, there are no freely available books on machine systems (computer architecture) of sufficiently high quality for us to recommend.
+The author of *Operating Systems: Three Easy Pieces*, one of the few high-quality free books on operating systems, is currently working on creating such a similar work on machine systems, and we have left a placeholder for this new book for whenever it is ready.
 
 ## Prerequisites
 - Foundations Physics
@@ -9,13 +12,14 @@ We combine these two together because coursework tends to combine them together 
 
 ## Resources
 ### Survey
+- *[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)* (Charles Petzold)
 - *[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems)* (Noam Nisan and Shimon Schocken)
 - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 - [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 
 ### Machine Systems
 - *[Computer Organization and Design MIPS Edition: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* (Patterson and Hennessy)
-- TODO find free alternative text
+- Placeholder: *Computer Systems: Three Easy Steps* ([not yet available](http://pages.cs.wisc.edu/~remzi/CSTEP/))
 - [Computation Structures - Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
 - [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
 - [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
