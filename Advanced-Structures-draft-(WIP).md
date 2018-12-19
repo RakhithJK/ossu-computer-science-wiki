@@ -1,3 +1,7 @@
+- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/)
+- [Category Theory I](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+- [Category Theory II](https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
 - algorithms: parallel and sequential
 - functional data structures
 - advanced databases like Irmin
