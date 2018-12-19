@@ -1,4 +1,5 @@
 - Information Theory
 - Computer Networking
 - *[Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)* (Mikito Takada)
+- Placeholder: *Distributed Systems: Three Easy Steps* ([not yet available](http://pages.cs.wisc.edu/~remzi/DSTEP/))
 - [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) 48 hours
