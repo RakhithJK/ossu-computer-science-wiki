@@ -148,16 +148,3 @@ The first course is a very popular introduction to physics that you can take to 
 | `interactive text` | [Expii Electricity, Magnetism, Optics](https://www.expii.com/t/electricity-magnetism-and-optics-1620)           | `practice` `review`     |          |
 ### Needed by
 - Advanced Computing Systems
-
-## Modern Technology
-Although "computer science" is mostly a branch of mathematics, most computer science courses just assume that you are going to use a computer for doing computations, and that you are quite familiar with computers.
-So you should take this if you are completely new to how computers work.
-However, the full Harvard CS50 course includes all this material, so there is no need to take it if you plan to use CS50 as your introductory course.
-### Prerequisites
-- None
-### Resources
-| Format   | Resources                                                                                                   | Use cases | Length   |
-|----------|-------------------------------------------------------------------------------------------------------------|-----------|----------|
-| `course` | [Harvard CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology-harvardx-cs50t) | `learn`   | 12 hours |
-### Needed by
-- Intro CS
