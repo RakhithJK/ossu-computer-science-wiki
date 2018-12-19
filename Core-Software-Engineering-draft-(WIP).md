@@ -1,6 +1,16 @@
-Processes
-- [Software Development Processes and Methodologies](https://www.coursera.org/learn/software-processes)
+# Core Software Engineering
 
-Practices
-- [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-- [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+## Prerequisites
+- Core Theory
+
+## Resources
+### Software Architecture
+- *[500 Lines or Less](http://aosabook.org/en/)*
+
+### Formal Methods
+- [UMUC Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals)
+- [UMUC Software Testing Management](https://www.edx.org/course/software-testing-management)
+- [UMUC Formal Software Verification](https://www.edx.org/course/formal-software-verification-2)
+
+## Needed by
+- Advanced Software Engineering
