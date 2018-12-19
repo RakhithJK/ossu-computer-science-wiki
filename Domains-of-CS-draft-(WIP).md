@@ -52,6 +52,7 @@ However, some subdomains of these other fields will have a domain listed in this
 ## Programming Languages Domain
 
 ## Process Management Domain
+- depends on: Tools of CS: Development Infrastructure
 
 ## Software Engineering Domain
 
