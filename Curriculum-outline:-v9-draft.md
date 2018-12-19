@@ -72,3 +72,6 @@ Advanced Theory
 Advanced Software Engineering
 - Software Architecture
 - Formal Methods
+
+Domains of CS
+- Computer Graphics, etc.
