@@ -11,7 +11,7 @@
 - *[Computational Complexity: A Modern Approach](http://theory.cs.princeton.edu/complexity/)* (Sanjeev Arora and Boaz Barak)
 
 ### Needed by
-- Complexity Theory Domain (TODO: [Graduate Computational Complexity](http://www.cs.cmu.edu/~odonnell/complexity17/))
+- Complexity Theory Domain
 
 ## Type Theory track
 ### Resources
@@ -21,4 +21,4 @@
 - Videos: "[Type theory foundations](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)"
 
 ### Needed by
-- Type Theory Domain (TODO: start with [this video](https://youtu.be/caSOTjr1z18), then [Homotypy Type Theory](http://www.cs.cmu.edu/~rwh/courses/hott/) [book](https://homotopytypetheory.org/book/))
+- Type Theory Domain
