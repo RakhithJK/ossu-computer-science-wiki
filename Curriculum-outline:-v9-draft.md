@@ -18,7 +18,13 @@ Foundations
   - Advanced track for CS students who will study data science, computer graphics, etc.
 - Probability
 - Physics
+
+Tools of CS
 - Modern Technology
+- Version Control
+- Editor
+- Command Line
+- Development Infrastructure
 
 Intro CS
 - Introduction to Computer Science (wildcard)
