@@ -1,6 +1,4 @@
-# Curriculum outline
-
-## Summary of changes
+Summary of changes
 - New section Foundations houses all non-CS prerequisite content
 - Intro CS is now a "wildcard" (students' choice) section, meaning it isn't required to teach a specific language or set of concepts
 - Old Core Theory renamed to Core Structures
