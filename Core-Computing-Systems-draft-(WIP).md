@@ -35,24 +35,24 @@ If you decide to use Patternson and Hennessy, know that you are advised to follo
 
 For everyone else, we recommend MIT Computation Structures parts 1-3.
 
-| Format   | Resource                                                                                                                                                                                          | Use cases | Length |
-|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------|
-| `book`   | *[Computer Organization and Design MIPS Edition: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* (Patterson and Hennessy) |           |        |
-| `book`   | Placeholder: *Computer Systems: Three Easy Steps* ([not yet available](http://pages.cs.wisc.edu/~remzi/CSTEP/))                                                                                   |           |        |
-| `course` | [MIT Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)                                                                |           |        |
-| `course` | [MIT Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)                                                                 |           |        |
-| `course` | [MIT Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)                                                               |           |        |
+| Format   | Resource                                                                                                                                                                                          | Use cases | Length    |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+| `book`   | *[Computer Organization and Design MIPS Edition: The Hardware/Software Interface](https://www.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)* (Patterson and Hennessy) | `learn`   | 800 pages |
+| `book`   | Placeholder: *Computer Systems: Three Easy Steps* ([not yet available](http://pages.cs.wisc.edu/~remzi/CSTEP/))                                                                                   |           |           |
+| `course` | [MIT Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)                                                                | `learn`   | 60 hours  |
+| `course` | [MIT Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)                                                                 | `learn`   | 60 hours  |
+| `course` | [MIT Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)                                                               | `learn`   | 60 hours  |
 
 ### Operating Systems
 First learn basic C by taking Aalto C (if you prefer text-based) or the C parts of Harvard CS50 (if you prefer video-based).
 Then read OS:TEP and do all the exercises or take Hack the Kernel.
 
-| Format   | Resource                                                                                                                                | Use cases | Length |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|--------|
-| `book`   | [Aalto C](http://moocfi.github.io/courses/2016/aalto-c/en/)                                                                             | `learn`   |        |
-| `course` | [Harvard CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                           | `learn`   |        |
-| `book`   | *[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)* (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau) | `learn`   |        |
-| `course` | [Hack the Kernel](https://www.ops-class.org/)                                                                                           | `learn`   |        |
+| Format   | Resource                                                                                                                                | Use cases | Length    |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------|
+| `text`   | [Aalto C](http://moocfi.github.io/courses/2016/aalto-c/en/)                                                                             | `learn`   |           |
+| `course` | [Harvard CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                           | `learn`   |           |
+| `book`   | *[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)* (Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau) | `learn`   | 714 pages |
+| `course` | [Hack the Kernel](https://www.ops-class.org/)                                                                                           | `learn`   |           |
 
 ## Needed by
 - TODO
