@@ -7,8 +7,9 @@ Professional licensing boards then develop criteria and an exam for obtaining an
 You can still be "practising engineering" even if you aren't yet licensed; software engineering is being practised all over the world, every day to produce software with extremely high safety, reliability, and performance requirements, such as in aviation, medical devices, spacecraft, etc.
 In contrast to pure computer science, which you can think of as the "scientific domain knowledge" part of software engineering, software engineering is a very young field that hasn't yet reached the same level of standardization that exists in other engineering fields like chemical, mechanical, etc.
 
-The goal of this section is to familiarize you with a handful of the very basic components of software engineering and architecture that are relevant to almost all developers, even those who won't be developing mission-critical software.
-It should not be considered representative of the entire field of SWE, which is too vast to fit in a curriculum of this level.
+Software engineering (SWE) as a formal academic subject is too vast to nest within a computer science curriculum; if the material were available, it would warrant its own separate curriculum.
+Until SWE is more widely recognized as an independent subject, educational material is limited and most entry-level software engineering roles expect a background in computer science (the ad hoc "engineering" part is learned on the job).
+Therefore, the goal of the Software Engineering sections of the curriculum is not to teach SWE as a whole, but rather to teach a few small components of it that can be relevant to both CS and SWE.
 
 Notes to self
 - http://sites.computer.org/ccse/SE2004Volume.pdf
