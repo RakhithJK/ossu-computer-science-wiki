@@ -35,7 +35,7 @@ However, some subdomains of these other fields will have a domain listed in this
 
 ## Complexity Theory Domain
 
-- [Graduate Computational Complexity](http://www.cs.cmu.edu/~odonnell/complexity17/))
+- [Graduate Computational Complexity](http://www.cs.cmu.edu/~odonnell/complexity17/)
 
 ## Type Theory Domain
 
