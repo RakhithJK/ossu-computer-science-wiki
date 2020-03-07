@@ -141,7 +141,8 @@ The first course is a very popular introduction to physics that you can take to 
 | Format             | Resource                                                                                                        | Use cases               | Length   |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------|----------|
 | `course`           | [UVA How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)                   | `prepare` `inspiration` | 17 hours |
-| `course`           | [Rice Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) | `learn`                 | 36 hours |
+| `course`           | [Rice Mechanics, Part 1](https://www.edx.org/course/introduction-to-mechanics-part-1) | `learn`                 | 36 hours |
+| `course`           | [Rice Mechanics, Part 2](https://www.edx.org/course/mechanics-part-2) | `learn`                 | 36 hours |
 | `interactive text` | [Expii Mechanics](https://www.expii.com/t/mechanics-486)                                                        | `practice` `review`     |          |
 | `course`           | [Rice Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) | `learn`                 | 70 hours |
 | `course`           | [Rice Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | `learn`                 | 70 hours |
